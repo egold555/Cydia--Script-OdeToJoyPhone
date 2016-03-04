@@ -1,0 +1,10 @@
+Package: org.golde.cydia.Scripts.odeToJoy
+Name: Ode To Joy Keypad 6
+Author: Eric Golde
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a bot that plays Ode To Joy on your phones dialpad. Iphone 6 ONLY!
+Homepage: http://eric.golde.org/cydia
+Maintainer: Eric Golde
+Section: ECR_Scripts
+Depends: me.autotouch.autotouch.ios8
